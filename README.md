@@ -1,1 +1,2 @@
-# pro28
+# Plantilla-Proyecto-C28
+PLANTILLA PRO-C28: ARRANCANDO MANGOS 
